@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "chatgpt-assistant",
+  "description": "基于ChatGPT的微信小程序",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
